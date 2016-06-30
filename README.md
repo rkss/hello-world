@@ -1,4 +1,4 @@
 # hello-world
 a test repository
 
-this is good!
+totally bad,pls refuse!
